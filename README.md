@@ -10,7 +10,7 @@ ALPR involves three major steps:
 
 3.	Character Recognition – This stage is where the segmented characters are identified.
 
-Here, the system uses Python, OpenCV and Tesseract to identify vehicles by their license plates and stored along with the date and time in a CSV file. OpenCV is used to detect number plates and Python Tesseract is used to extract characters and digits from the number plates. 
+Here, the system uses Python, OpenCV and Tesseract to identify vehicles by their license plates and stored them along with the date and time in a CSV file. OpenCV is used to detect number plates and Python Tesseract is used to extract characters and digits from the number plates. 
 
 &nbsp;
 
